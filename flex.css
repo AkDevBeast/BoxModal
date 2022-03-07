@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    background-color: pink;
+    width: 800px;
+    height: 500px;
+    align-items: flex-start;
+}
+
+#one{
+  width: 100px;
+height: 100px;
+background-color: aqua;
+ margin-left: 50px; 
+margin-top: 20px;
+/* align-self: center; */
+}
+#two{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 85);
+    /* /* margin-left: 20px; */
+margin-top: 100px;
+}
+
+
+#three{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    /* margin-left: 20px; */
+ margin-top: 200px;
+/* margin-bottom: 20px;
+align-self: flex-end;
+align-content: center; */
+}
+
+.h3{
+    margin-top: 40px;
+    margin-left: 20px;
+}
